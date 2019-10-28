@@ -4,9 +4,9 @@ Twitter Hunting focuses on deriving meaningful threat intelligence from public t
 
 As part of the project, we are releasing the raw data (25M tweets / 170k+ profiles) from our research that was presented on 10/26/19 at BSidesDC:
 
-Talk - https://www.youtube.com/watch?v=epbxuMKYubE
+[BSidesDC Recording](https://www.youtube.com/watch?v=epbxuMKYubE)
 
-Slides - https://github.com/bioniccyber/socialmediaintel/blob/master/BSidesDC2019_Talk_Slides/BSidesDC2019-SocialMediaIntel-102619.pdf
+[Slides](https://github.com/bioniccyber/socialmediaintel/blob/master/BSidesDC2019_Talk_Slides/BSidesDC2019-SocialMediaIntel-102619.pdf)
 
-@secdatanoms
-@markaorlando
+![@secdatanoms](/images/secdatanoms.png)
+![@markaorlando](/images/markaorlando.png)
