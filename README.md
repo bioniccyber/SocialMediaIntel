@@ -8,6 +8,14 @@ As part of the project, we are releasing the raw data (25M tweets / 170k+ profil
 
 [Slides](https://github.com/bioniccyber/socialmediaintel/blob/master/BSidesDC2019_Talk_Slides/BSidesDC2019-SocialMediaIntel-102619.pdf)
 
+Repo Update Checklist
+- [x] Slide upload - /BSidesDC2019_Talk_Slides
+- [x] Raw Data upload - /raw_data
+- [ ] FAQ upload
+- [ ] Analyses/results upload
+- [ ] Script upload
+- [ ] Lots more...
+
 ![@markaorlando](images/markaorlando.png) ![@secdatanoms](images/secdatanoms.png)
 
 [@markaorlando](https://twitter.com/markaorlando)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[@secdatanoms](https://twitter.com/secdatanoms)
