@@ -8,6 +8,6 @@ As part of the project, we are releasing the raw data (25M tweets / 170k+ profil
 
 [Slides](https://github.com/bioniccyber/socialmediaintel/blob/master/BSidesDC2019_Talk_Slides/BSidesDC2019-SocialMediaIntel-102619.pdf)
 
-![@secdatanoms](https://raw.githubusercontent.com/bioniccyber/socialmediaintel/images/secdatanoms.jpg)
+![@secdatanoms](https://raw.githubusercontent.com/bioniccyber/socialmediaintel/images/secdatanoms.png)
 
-![@markaorlando](https://raw.githubusercontent.com/bioniccyber/socialmediaintel/images/markaorlando.jpg)
+![@markaorlando](https://raw.githubusercontent.com/bioniccyber/socialmediaintel/images/markaorlando.png)
